@@ -1,0 +1,16 @@
+[{
+  "modid": "net.minecraft.rosettaenchanttable",
+  "name": "Rosetta Enchant Table",
+  "description": "pop up description on enchant table's button.",
+  "url": "http://forum.minecraftuser.jp/viewtopic.php?f=13&t=6874",
+  "updateUrl": "http://forum.minecraftuser.jp/viewtopic.php?f=13&t=6874",
+  "logoFile": "",
+  "version": "0.0.4",
+  "credits": "By scalar",
+  "parent": "",
+  "authors": ["scalar"],
+  "requiredMods": [],
+  "dependencies": [],
+  "dependants": [],
+  "useDependencyInformation": "true"
+}]
